@@ -56,3 +56,6 @@ h4{
   font-style: italic;
   color: white;
 }
+audio{
+  max-width: 100%;
+}
