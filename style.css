@@ -61,3 +61,8 @@ h4{
 audio{
   margin: auto;
 }
+
+.container{
+  width: 100%
+  min-height: 200px
+}
