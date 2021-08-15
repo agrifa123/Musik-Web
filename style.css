@@ -49,18 +49,15 @@ img{
 h3{
   font-family: Times New Roman;
   font-style: italic;
-  font-size: 50px;
   color: red;
 }
 h4{
   font-family: Times New Roman;
   font-style: italic;
-  font-size: 50px;
   color: white;
 }
 audio{
-  width: 100%;
-  main-height: 200px;
+  margin: auto;
 }
 
 .container{
