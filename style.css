@@ -19,7 +19,7 @@ body{
 }
 img{
   max-width: 100%;
-  height: auto;
+  height: 100%;
   border-radius: 100%;
   animation-name: spin;
   animation-iteration-count: infinite;
